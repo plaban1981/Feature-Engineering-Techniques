@@ -14,3 +14,6 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 
 https://www.trainindata.com/post/best-resources-to-learn-machine-learning
+
+
+https://www.kaggle.com/evanmiller/python-for-padawans
